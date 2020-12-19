@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDE03</color>
+    <color name="colorPrimaryDark">#FFC000</color>
+    <color name="colorAccent">#0336FF</color>
+    <color name="colorTitle">#ffffff</color>
+    <color name="textColorEarthquakeLocation">#2B3D4D</color>
+    <color name="settingsColor">#B6B6B6</color>
+</resources>
